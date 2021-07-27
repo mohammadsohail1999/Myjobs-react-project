@@ -1,0 +1,10 @@
+.home_rec {
+  width: 70%;
+  margin-top: 20px;
+}
+
+.jobs_wrapper {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  flex-wrap: wrap;
+}

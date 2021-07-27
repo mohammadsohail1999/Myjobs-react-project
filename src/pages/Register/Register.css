@@ -1,0 +1,33 @@
+.register {
+  display: flex;
+  justify-content: center;
+  background: #edf6ff 0% 0% no-repeat padding-box;
+  min-height: 90vh;
+}
+
+.form_wrapper {
+  width: 40%;
+  height: 70%;
+  background: #fff 0% 0% no-repeat padding-box;
+  background: #ffffff 0% 0% no-repeat padding-box;
+  box-shadow: 0px 30px 36px #557da526;
+  padding: 30px;
+  border-radius: 20px;
+  margin-top: 10px;
+}
+
+.form_Submit {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.form_Submit button {
+  background: #43afff 0% 0% no-repeat padding-box;
+  border: 1px solid #43afff;
+  border-radius: 5px;
+  margin: 1rem 0;
+  padding: 0.5rem 1rem;
+  color: #fff;
+}

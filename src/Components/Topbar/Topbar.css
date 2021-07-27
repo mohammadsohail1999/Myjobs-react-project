@@ -1,0 +1,51 @@
+.topbar_wrapper {
+  position: sticky;
+  top: 0;
+  background: transparent linear-gradient(248deg, #303f60 0%, #1a253c 100%) 0%
+    0% no-repeat padding-box;
+}
+
+.topbar {
+  display: flex;
+  justify-content: space-between;
+
+  padding: 12px 0 17px 0;
+  /* border-bottom: 3px solid #ffffff8c; */
+  margin: 0 1rem 0px 1rem;
+}
+
+.sideOptions {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.RecruiterPostJob {
+  color: #fff;
+}
+
+/* .topbar::after {
+  content: "";
+  position: absolute;
+  bottom: -8px;
+  left: 0;
+  height: 0.3px;
+  width: 100%;
+  background: #000;
+} */
+
+.topbar .auth {
+  border: 1px solid #43afff33;
+  padding: 8px 16px;
+  border-radius: 10px;
+  background: #43afff;
+  color: #fff;
+}
+
+.header span {
+  color: #43afff;
+}
+
+.header {
+  color: #fff;
+}

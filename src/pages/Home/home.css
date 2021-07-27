@@ -1,0 +1,6 @@
+.home {
+  background: #edf6ff 0% 0% no-repeat padding-box;
+  min-height: 90vh;
+  display: flex;
+  justify-content: center;
+}
